@@ -1,0 +1,20 @@
+h1 {    
+    margin-bottom: 1em;
+    margin-left:5em;
+    font-size: 28px;
+    color:lightcoral}
+
+
+    .split-para { 
+        display:block;
+        margin-top: 0em;
+        margin-bottom: 0em;
+        margin-left:5em;}
+
+    .split-para span { 
+        display:block;
+        float:right;
+        width: 50%;
+        margin-top:0em;
+        margin-bottom:0em;
+        margin-right:10em;}
