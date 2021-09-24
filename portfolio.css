@@ -14,7 +14,6 @@ h1 {
     .split-para span { 
         display:block;
         float:right;
-        width: 50%;
+        width: 90%;
         margin-top:0em;
-        margin-bottom:0em;
-        margin-right:10em;}
+        margin-bottom:0em;}
