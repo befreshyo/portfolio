@@ -2,7 +2,10 @@ h1 {
     margin-bottom: 1em;
     margin-left:2.5em;
     font-size: 28px;
-    color:lightcoral}
+    color:lightcoral;
+    font-family: arial;}
+
+p{font-family: arial}
 
 
     .split-para { 
