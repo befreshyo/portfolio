@@ -1,18 +1,22 @@
+bod{
+    text-align: center;
+}
+
 h1 {    
     margin-bottom: 1em;
-    margin-left:2.5em;
     font-size: 28px;
+    margin-left: 2.5em;
     color:lightcoral;}
 
 p{
-    font-family: arial}
+    font-family: arial;
+    margin-left: 5em;}
 
 
     .split-para { 
         display:block;
         margin-top: 0em;
-        margin-bottom: 0em;
-        margin-left:5em;}
+        margin-bottom: 0em;}
 
     .split-para span { 
         display:block;
