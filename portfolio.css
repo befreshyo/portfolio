@@ -8,7 +8,7 @@ h1 {
     color:lightcoral;}
 
 p{font-family: arial;
-margin-right:2em;}
+margin-right:1em;}
 
 
 .split-para{ 
@@ -20,5 +20,6 @@ margin-right:2em;}
     display:block;
     float:right;
     width:10%;
+    margin-left:5em;
     margin-top: 0em;
     margin-bottom: 0em;}
