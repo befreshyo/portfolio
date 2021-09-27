@@ -1,32 +1,24 @@
-bod{
+body{
     text-align: center;
 }
 
 h1 {    
     margin-bottom: 1em;
     font-size: 28px;
-    margin-left: 2.5em;
     color:lightcoral;}
 
-p{
-    font-family: arial;
-    margin-left: 5em;}
+p{font-family: arial;
+margin-right:2em;}
 
 
-    .split-para { 
-        display:block;
-        margin-top: 0em;
-        margin-bottom: 0em;}
-
-    .split-para span { 
-        display:block;
-        float:right;
-        width: 78%;
-        margin-top:0em;
-        margin-bottom:0em;
-        margin-right:0em;}
-
-    #wrapper {
-        margin-left:auto;
-        margin-right:auto;
-        width:960px;}
+.split-para{ 
+    display:block;
+    margin-top: 0em;
+    margin-bottom: 0em;}
+    
+.split-para span{ 
+    display:block;
+    float:right;
+    width:10%;
+    margin-top: 0em;
+    margin-bottom: 0em;}
